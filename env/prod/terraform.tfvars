@@ -10,6 +10,11 @@ rgs = {
   }
 
 
+  "rgc" = {
+    name     = "rg3"
+    location = "eastus"
+  }
+
 
 
 }
